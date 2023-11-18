@@ -1,0 +1,14 @@
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Numero_asientos_cine\bin\Debug\net6.0\Numero_asientos_cine.exe
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Numero_asientos_cine\bin\Debug\net6.0\Numero_asientos_cine.deps.json
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Numero_asientos_cine\bin\Debug\net6.0\Numero_asientos_cine.runtimeconfig.json
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Numero_asientos_cine\bin\Debug\net6.0\Numero_asientos_cine.dll
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Numero_asientos_cine\bin\Debug\net6.0\Numero_asientos_cine.pdb
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Numero_asientos_cine\obj\Debug\net6.0\Numero_asientos_cine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Numero_asientos_cine\obj\Debug\net6.0\Numero_asientos_cine.AssemblyInfoInputs.cache
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Numero_asientos_cine\obj\Debug\net6.0\Numero_asientos_cine.AssemblyInfo.cs
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Numero_asientos_cine\obj\Debug\net6.0\Numero_asientos_cine.csproj.CoreCompileInputs.cache
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Numero_asientos_cine\obj\Debug\net6.0\Numero_asientos_cine.dll
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Numero_asientos_cine\obj\Debug\net6.0\refint\Numero_asientos_cine.dll
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Numero_asientos_cine\obj\Debug\net6.0\Numero_asientos_cine.pdb
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Numero_asientos_cine\obj\Debug\net6.0\Numero_asientos_cine.genruntimeconfig.cache
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Numero_asientos_cine\obj\Debug\net6.0\ref\Numero_asientos_cine.dll
