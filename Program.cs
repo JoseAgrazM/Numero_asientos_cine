@@ -6,6 +6,8 @@
 
         static int numLibres = asientos.GetLength(0) * asientos.GetLength(1);
 
+        static string linea = "";
+
         static void Main(string[] args)
         {
             bool seguir = false;
@@ -33,7 +35,7 @@
         static void Asientos()
         {
             int posicionNum = 0;
-            string linea = "";
+            
 
             for (int i = 0; i < asientos.GetLength(1) * 2; i++)
             {
@@ -119,7 +121,7 @@
             Console.WriteLine($"\n Estos son los asientos Libres 'L' - Ocupados 'X' \n");
             Console.WriteLine($"Cual quieres comprar?\n");
 
-            
+            Console.WriteLine($"{linea}");
             for (int i = 0; i < asientos.GetLength(0); i++)
             {
                 for (int j = 0; j < asientos.GetLength(1); j++)
